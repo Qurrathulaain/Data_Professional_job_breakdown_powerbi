@@ -8,5 +8,9 @@ This Data Professional Career Breakdown Project leveraged Power BI to analyze an
  **Dashboard creation** :Interactive dashboards were developed in Power BI to present the findings in a visually appealing and user-friendly manner. These dashboards allow users to explore the data 
  dynamically and gain actionable insights.
 
- ![Data Professional CAreer]()
+ ![Data Professional Career](https://github.com/Qurrathulaain/Data_Professional_job_breakdown_powerbi/blob/main/Dashboard.png)
+*This is the dashboard for data professional career breakdown*
+
+# Conclusion:
+The Data Professional Career Breakdown Project in Power BI offers valuable insights into the data industry's career landscape. By leveraging Power BI's capabilities for data analysis and visualization, this report provides actionable information for individuals seeking to pursue or advance their careers in data-related fields.
 
